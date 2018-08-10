@@ -1,0 +1,47 @@
+4884 - bubble gum
+5625 - vanilla cupcake
+5908 - chocolate cupcake
+6420 - cinnamon roll
+6676 - waffle
+6932 - croissant
+7700 - candy
+8468 - pumpkin mash
+8724 - cotton candy
+8980 - carrot
+9236 - blackberry marmalade
+9492 - jelly
+9748 - Jelly
+10004 - Jelly
+10260 - jelly
+12820 - banana split
+13588 - popcorn
+14100 - liquorice candy
+14356 - cereal bar
+14612 - salted caramel
+14868 - ginger tartlet
+15124 - mango juice
+15380 - fruit basket
+15636 - melon ice cream
+15892 - bloodorange juice
+16148 - milk chocolate bar
+16404 - mint chocolate bar
+16660 - white chocolate bar
+16916 - caramel chocolate bar
+17172 - chocolate cookie
+18964 - sugar candy
+19220 - apple ring
+22036 - water ice
+22292 - chocolate donut
+22548 - pancakes
+23060 - strawberry cake
+23316 - chocolate cake
+23572 - lollipop
+23828 - softice
+25108 - candied apple
+25364 - date cookie
+26132 - bread
+26388 - curry
+26644 - lolly
+26900 - lemon tart
+27156 - strawberry cocktail
+28676 - biscuit role
